@@ -1,0 +1,11 @@
+{
+  "name": "freescape",
+  "version": "1.0.0",
+  "main": "cowboys.js",
+  "license": "MIT",
+  "private": false,
+  "type": "module",
+  "scripts": {
+    "generate-cowboys": "node ./cowboys.js"
+  }
+}
